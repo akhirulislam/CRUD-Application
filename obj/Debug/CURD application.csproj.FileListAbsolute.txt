@@ -1,0 +1,83 @@
+E:\versity\6th semister\c#\final\CURD application\CURD application\bin\Debug\CURD application.exe.config
+E:\versity\6th semister\c#\final\CURD application\CURD application\bin\Debug\CURD application.exe
+E:\versity\6th semister\c#\final\CURD application\CURD application\bin\Debug\CURD application.pdb
+E:\versity\6th semister\c#\final\CURD application\CURD application\bin\Debug\Azure.Core.dll
+E:\versity\6th semister\c#\final\CURD application\CURD application\bin\Debug\Azure.Identity.dll
+E:\versity\6th semister\c#\final\CURD application\CURD application\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\versity\6th semister\c#\final\CURD application\CURD application\bin\Debug\Microsoft.Data.SqlClient.dll
+E:\versity\6th semister\c#\final\CURD application\CURD application\bin\Debug\Microsoft.Identity.Client.dll
+E:\versity\6th semister\c#\final\CURD application\CURD application\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\versity\6th semister\c#\final\CURD application\CURD application\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+E:\versity\6th semister\c#\final\CURD application\CURD application\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\versity\6th semister\c#\final\CURD application\CURD application\bin\Debug\Microsoft.IdentityModel.Logging.dll
+E:\versity\6th semister\c#\final\CURD application\CURD application\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+E:\versity\6th semister\c#\final\CURD application\CURD application\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\versity\6th semister\c#\final\CURD application\CURD application\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+E:\versity\6th semister\c#\final\CURD application\CURD application\bin\Debug\System.Buffers.dll
+E:\versity\6th semister\c#\final\CURD application\CURD application\bin\Debug\System.ClientModel.dll
+E:\versity\6th semister\c#\final\CURD application\CURD application\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\versity\6th semister\c#\final\CURD application\CURD application\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\versity\6th semister\c#\final\CURD application\CURD application\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+E:\versity\6th semister\c#\final\CURD application\CURD application\bin\Debug\System.IO.FileSystem.AccessControl.dll
+E:\versity\6th semister\c#\final\CURD application\CURD application\bin\Debug\System.Memory.Data.dll
+E:\versity\6th semister\c#\final\CURD application\CURD application\bin\Debug\System.Memory.dll
+E:\versity\6th semister\c#\final\CURD application\CURD application\bin\Debug\System.Numerics.Vectors.dll
+E:\versity\6th semister\c#\final\CURD application\CURD application\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\versity\6th semister\c#\final\CURD application\CURD application\bin\Debug\System.Security.AccessControl.dll
+E:\versity\6th semister\c#\final\CURD application\CURD application\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+E:\versity\6th semister\c#\final\CURD application\CURD application\bin\Debug\System.Security.Permissions.dll
+E:\versity\6th semister\c#\final\CURD application\CURD application\bin\Debug\System.Security.Principal.Windows.dll
+E:\versity\6th semister\c#\final\CURD application\CURD application\bin\Debug\System.Text.Encodings.Web.dll
+E:\versity\6th semister\c#\final\CURD application\CURD application\bin\Debug\System.Text.Json.dll
+E:\versity\6th semister\c#\final\CURD application\CURD application\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\versity\6th semister\c#\final\CURD application\CURD application\bin\Debug\System.ValueTuple.dll
+E:\versity\6th semister\c#\final\CURD application\CURD application\bin\Debug\Azure.Core.xml
+E:\versity\6th semister\c#\final\CURD application\CURD application\bin\Debug\Azure.Identity.xml
+E:\versity\6th semister\c#\final\CURD application\CURD application\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\versity\6th semister\c#\final\CURD application\CURD application\bin\Debug\Microsoft.Data.SqlClient.xml
+E:\versity\6th semister\c#\final\CURD application\CURD application\bin\Debug\Microsoft.Identity.Client.xml
+E:\versity\6th semister\c#\final\CURD application\CURD application\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+E:\versity\6th semister\c#\final\CURD application\CURD application\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+E:\versity\6th semister\c#\final\CURD application\CURD application\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+E:\versity\6th semister\c#\final\CURD application\CURD application\bin\Debug\Microsoft.IdentityModel.Logging.xml
+E:\versity\6th semister\c#\final\CURD application\CURD application\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+E:\versity\6th semister\c#\final\CURD application\CURD application\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+E:\versity\6th semister\c#\final\CURD application\CURD application\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+E:\versity\6th semister\c#\final\CURD application\CURD application\bin\Debug\System.Buffers.xml
+E:\versity\6th semister\c#\final\CURD application\CURD application\bin\Debug\System.ClientModel.xml
+E:\versity\6th semister\c#\final\CURD application\CURD application\bin\Debug\System.Configuration.ConfigurationManager.xml
+E:\versity\6th semister\c#\final\CURD application\CURD application\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\versity\6th semister\c#\final\CURD application\CURD application\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+E:\versity\6th semister\c#\final\CURD application\CURD application\bin\Debug\System.IO.FileSystem.AccessControl.xml
+E:\versity\6th semister\c#\final\CURD application\CURD application\bin\Debug\System.Memory.xml
+E:\versity\6th semister\c#\final\CURD application\CURD application\bin\Debug\System.Memory.Data.xml
+E:\versity\6th semister\c#\final\CURD application\CURD application\bin\Debug\System.Numerics.Vectors.xml
+E:\versity\6th semister\c#\final\CURD application\CURD application\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\versity\6th semister\c#\final\CURD application\CURD application\bin\Debug\System.Security.AccessControl.xml
+E:\versity\6th semister\c#\final\CURD application\CURD application\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+E:\versity\6th semister\c#\final\CURD application\CURD application\bin\Debug\System.Security.Permissions.xml
+E:\versity\6th semister\c#\final\CURD application\CURD application\bin\Debug\System.Security.Principal.Windows.xml
+E:\versity\6th semister\c#\final\CURD application\CURD application\bin\Debug\System.Text.Encodings.Web.xml
+E:\versity\6th semister\c#\final\CURD application\CURD application\bin\Debug\System.Text.Json.xml
+E:\versity\6th semister\c#\final\CURD application\CURD application\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\versity\6th semister\c#\final\CURD application\CURD application\bin\Debug\System.ValueTuple.xml
+E:\versity\6th semister\c#\final\CURD application\CURD application\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+E:\versity\6th semister\c#\final\CURD application\CURD application\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+E:\versity\6th semister\c#\final\CURD application\CURD application\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+E:\versity\6th semister\c#\final\CURD application\CURD application\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+E:\versity\6th semister\c#\final\CURD application\CURD application\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+E:\versity\6th semister\c#\final\CURD application\CURD application\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+E:\versity\6th semister\c#\final\CURD application\CURD application\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+E:\versity\6th semister\c#\final\CURD application\CURD application\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+E:\versity\6th semister\c#\final\CURD application\CURD application\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+E:\versity\6th semister\c#\final\CURD application\CURD application\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+E:\versity\6th semister\c#\final\CURD application\CURD application\obj\Debug\CURD application.csproj.AssemblyReference.cache
+E:\versity\6th semister\c#\final\CURD application\CURD application\obj\Debug\CURD_application.CURD.resources
+E:\versity\6th semister\c#\final\CURD application\CURD application\obj\Debug\CURD_application.Properties.Resources.resources
+E:\versity\6th semister\c#\final\CURD application\CURD application\obj\Debug\CURD application.csproj.GenerateResource.cache
+E:\versity\6th semister\c#\final\CURD application\CURD application\obj\Debug\CURD application.csproj.CoreCompileInputs.cache
+E:\versity\6th semister\c#\final\CURD application\CURD application\obj\Debug\CURD app.BB31B6D0.Up2Date
+E:\versity\6th semister\c#\final\CURD application\CURD application\obj\Debug\CURD application.exe
+E:\versity\6th semister\c#\final\CURD application\CURD application\obj\Debug\CURD application.pdb
+E:\versity\6th semister\c#\final\CURD application\CURD application\bin\Debug\System.Data.SqlClient.dll
+E:\versity\6th semister\c#\final\CURD application\CURD application\bin\Debug\System.Data.SqlClient.xml
